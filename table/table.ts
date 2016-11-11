@@ -10,6 +10,8 @@ export class Table {
 
     @Input() data: Data;
     @Input() header: Header;
+
+    //Implementation of sorting
 }
 
 export const declarations = [ Table ];
