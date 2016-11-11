@@ -1,0 +1,9 @@
+{
+  "name": "input-number",
+  "version": "0.0.0",
+  "description": "Number input",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

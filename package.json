@@ -1,0 +1,26 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "rxjs": "^5.0.0-beta.12",
+    "zone.js": "^0.6.26"
+  },
+  "devDependencies": {
+    "@angular/core": "^2.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmccd/shared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmccd/shared/issues"
+  },
+  "homepage": "https://github.com/elmccd/shared#readme"
+}
